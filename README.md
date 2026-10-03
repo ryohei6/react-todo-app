@@ -14,3 +14,4 @@ Bootstrapを使用したシンプルなTODOアプリです。
 
 ## GitHub Pagesへのデプロイ
 本プロジェクトは静的ファイルとしてビルドされるため、GitHub Pagesで無料でホスティング可能です。
+ 
